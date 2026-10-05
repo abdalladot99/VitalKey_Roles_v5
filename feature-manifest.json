@@ -1,0 +1,9 @@
+{
+  "name": "VitalKey Arabic Role-Based Graduation Prototype",
+  "language": "ar",
+  "rtl": true,
+  "roles": ["patient", "doctor", "hospital", "emergency", "ambulance"],
+  "features": ["role switcher in header", "role-specific dashboards", "NFC/QR scan", "AI emergency summary", "patient 360", "ambulance dispatch", "hospital beds", "admissions", "clinical encounters", "drug safety", "FHIR/DICOM/LIS integration view", "consent", "audit log", "localStorage demo state"],
+  "standalone": true,
+  "source_upload_included": false
+}
